@@ -1,0 +1,11 @@
+sort1 uses: BUBBLE SORT
+
+How do you know?: because it performs better on sorted data due to its early-exit optimization, showing faster results on sorted inputs
+
+sort2 uses: MERGE SORT
+
+How do you know?: because it consistently scales better than the other sorts and performs similarly on sorted and random data, matching O(n log n) performance
+
+sort3 uses: SELECTION SORT
+
+How do you know?: because it shows consistent performance regardless of input order and doesn’t optimize for sorted data, resulting in slower times on large inputs
